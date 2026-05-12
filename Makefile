@@ -17,4 +17,4 @@ clean:
 
 all: $(MAIN).exe
 
-.PHONY: all run clean 
+.PHONY: all run clean
